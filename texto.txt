@@ -1,0 +1,3 @@
+Um teste é bom;
+Dois Testes são interessantes;
+Três testes são demais!
