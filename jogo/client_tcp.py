@@ -2,7 +2,7 @@
 
 
 from __future__ import print_function
-import jogo.tic_tac_common as ttc
+import tic_tac_common as ttc
 
 import socket
 import sys
@@ -138,7 +138,7 @@ def handle_winner_variable (res):
 if __name__ == "__main__":
 
 	#Ip do servidor
-	ttc.SERVER_IP = '192.168.0.16'
+	ttc.SERVER_IP = '192.168.0.21'
 
 	#porta do servidor em execução
 	ttc.SERVER_PORT = 9999

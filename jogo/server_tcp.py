@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
-import jogo.tic_tac_common as ttc
+import tic_tac_common as ttc
 
 import socket
 import sys,  time
